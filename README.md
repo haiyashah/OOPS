@@ -96,3 +96,9 @@ To succeed, you need to supplement these courses with active, timed practice.
 
 
 https://www.quantguide.io/
+
+
+----
+
+Green book
+https://drive.google.com/file/d/1xuP2YnBatmA4AQ2gG-ArEZinrrT5PnyJ/view?usp=sharing
