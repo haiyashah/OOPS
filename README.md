@@ -87,6 +87,8 @@ To succeed, you need to supplement these courses with active, timed practice.
 
 All greenbook problems: https://www.youtube.com/playlist?list=PL3vcqQoOZ84osYZHGDYEjBAYqOBfVkwbz
 
+Quant PYQPS: https://www.youtube.com/playlist?list=PLjomwUQ3wWLuulvwC_HfDB6BpLIKsOBXX
+
 
 ---
 
