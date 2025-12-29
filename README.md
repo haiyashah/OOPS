@@ -85,6 +85,9 @@ To succeed, you need to supplement these courses with active, timed practice.
 
 * **[Xinfeng Zhou’s "Green Book"](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662):** Work through this book cover-to-cover while taking the OCW courses. If you can solve every problem in this book, you are technically ready for a Quant Researcher interview.
 
+All greenbook problems: https://www.youtube.com/playlist?list=PL3vcqQoOZ84osYZHGDYEjBAYqOBfVkwbz
+
+
 ---
 
 **A "week-by-week" study schedule based on how many hours you have available to commit**
