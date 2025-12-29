@@ -87,4 +87,12 @@ To succeed, you need to supplement these courses with active, timed practice.
 
 ---
 
-**Would you like me to create a "week-by-week" study schedule based on how many hours you have available to commit?**
+**A "week-by-week" study schedule based on how many hours you have available to commit**
+
+
+
+
+----
+
+
+https://www.quantguide.io/
