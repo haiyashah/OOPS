@@ -102,6 +102,8 @@ Quant PYQPS: https://www.youtube.com/playlist?list=PLjomwUQ3wWLuulvwC_HfDB6BpLIK
 
 https://www.quantguide.io/
 
+reddit: https://www.reddit.com/r/quant/comments/1o9qxro/tier_list_going_around_the_cs_careers_discord_how/
+
 
 ----
 
